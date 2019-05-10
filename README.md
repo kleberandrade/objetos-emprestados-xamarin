@@ -1,5 +1,7 @@
 # Objetos Emprestados
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ab194461cc6b4aa98637abe36320113f)](https://app.codacy.com/app/kleberandrade/objetos-emprestados-xamarin?utm_source=github.com&utm_medium=referral&utm_content=kleberandrade/objetos-emprestados-xamarin&utm_campaign=Badge_Grade_Dashboard)
+
 Aplicativo para lembrar dos objetos que foram emprestados
 
 ## Licença
